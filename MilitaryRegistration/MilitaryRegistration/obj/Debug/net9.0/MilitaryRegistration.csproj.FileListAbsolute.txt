@@ -1,0 +1,14 @@
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\bin\Debug\net9.0\MilitaryRegistration.exe
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\bin\Debug\net9.0\MilitaryRegistration.deps.json
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\bin\Debug\net9.0\MilitaryRegistration.runtimeconfig.json
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\bin\Debug\net9.0\MilitaryRegistration.dll
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\bin\Debug\net9.0\MilitaryRegistration.pdb
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\obj\Debug\net9.0\MilitaryRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\obj\Debug\net9.0\MilitaryRegistration.AssemblyInfoInputs.cache
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\obj\Debug\net9.0\MilitaryRegistration.AssemblyInfo.cs
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\obj\Debug\net9.0\MilitaryRegistration.csproj.CoreCompileInputs.cache
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\obj\Debug\net9.0\MilitaryRegistration.dll
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\obj\Debug\net9.0\refint\MilitaryRegistration.dll
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\obj\Debug\net9.0\MilitaryRegistration.pdb
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\obj\Debug\net9.0\MilitaryRegistration.genruntimeconfig.cache
+C:\Users\indhu\OneDrive\Desktop\MilitaryRegistration\MilitaryRegistration\MilitaryRegistration\obj\Debug\net9.0\ref\MilitaryRegistration.dll
